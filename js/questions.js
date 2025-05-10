@@ -276,14 +276,14 @@ let questions = [
   },
      {
     numb: 24,
-    question: "Name the shortcut key used for refresh windows desktop ",
+    question: "Fill in the blank with correct future tense of verb. We ___________ to the zoo after Breakfast  ",
 
-    answer: "F5",
+    answer: "will go",
     options: [
-      "F1",
-      "F3",
-      "F5",
-      "F7"
+      "went",
+      "are going",
+      "had gone",
+      "will go"
     ]
   },
      {
@@ -332,6 +332,92 @@ let questions = [
       "Prepare the resume",
       "Appear at interview",
       "Send Resume"
+    ]
+  },  
+
+     {
+    numb: 29,
+    question: "Choose suitable wh word for the given sentence. ___________ animal do you like?",
+
+    answer: "Which",
+    options: [
+      "Which",
+      "Why",
+      "Where",
+      "When"
+    ]
+  },  
+     {
+    numb: 30,
+    question: "Choose the correct punctuation mark after the word Rohan in the given sentence. Rohan David and Ram are playing hide and
+seek",
+
+    answer: "Comma (,)",
+    options: [
+      "Comma (,)",
+      "Period (_)",
+      "Slash (/)",
+      "Hyphen (-)"
+    ]
+  },  
+ {
+    numb: 31,
+    question: "Choose the correct response for the given question. How have you been?",
+
+    answer: "Very well, And you?",
+    options: [
+      "Very well, And you?",
+      "Thank you_ And you?",
+      "Same to you",
+      "On vacation_ And you?"
+    ]
+  },  
+     {
+    numb: 32,
+    question: "Choose the correct response of the given question. When did the accident happen?",
+
+    answer: "At 10:30 last night",
+    options: [
+      "in the hotel",
+      "during travelling",
+      "At 10:30 last night",
+      "On the table"
+    ]
+  },  
+     {
+    numb: 33,
+    question: "Choose the correct tense of the verb. I __________ music when I was child",
+
+    answer: "had learnt",
+    options: [
+      "learn",
+      "am learning",
+      "will learn",
+      "had learnt"
+    ]
+  },  
+     {
+    numb: 34,
+    question: "Curriculum vitae is also known as ___________ .",
+
+    answer: "resume",
+    options: [
+      "circular",
+      "resume",
+      "job application form",
+      "leave application"
+    ]
+  },  
+        {
+    numb: 35,
+    question: "Fill in the blank with comparative adjective. Your pencil is __________ than mine",
+
+    answer: "sharper",
+    options: [
+      "sharp",
+      "sharper",
+      "blunt",
+      "thick"
     ]
   },  
   // you can uncomment the below codes and make duplicate as more as you want to add question
