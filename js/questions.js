@@ -298,7 +298,42 @@ let questions = [
       "Input device"
     ]
   },
-    
+  {
+    numb: 26,
+    question: "A Resume shoudl be____ ",
+
+    answer: "Short and Precise",
+    options: [
+      "Short and Precise",
+      "Fancy and Colourful",
+      "Having long and detailed information",
+      "Having acronyms and abbreviations"
+    ]
+  },  
+     {
+    numb: 27,
+    question: "A written description of duties and responsibilities to be carried out in a job is called __________",
+
+    answer: "job description",
+    options: [
+      "CV",
+      "job description",
+      "resume",
+      "job applications"
+    ]
+  },  
+      {
+    numb: 28,
+    question: "After receiving interview call, what is the next step?",
+
+    answer: "Appear at interview",
+    options: [
+      "Send application letter",
+      "Prepare the resume",
+      "Appear at interview",
+      "Send Resume"
+    ]
+  },  
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
