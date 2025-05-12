@@ -140,7 +140,7 @@ let questions = [
     ]
   },
      {
-    numb: 63,
+    numb: 13,
     question: "Hard Skill....",
 
     answer: "60 WPM typing speed",
@@ -152,7 +152,7 @@ let questions = [
     ]
   },
      {
-    numb: 64,
+    numb: 14,
     question: "To grow yourself you must............. ",
 
     answer: "know your self",
@@ -164,7 +164,7 @@ let questions = [
     ]
   },
      {
-    numb: 65,
+    numb: 15,
     question: "Time management....",
 
     answer: "Complete your task on time",
@@ -349,8 +349,7 @@ let questions = [
   },  
      {
     numb: 30,
-    question: "Choose the correct punctuation mark after the word Rohan in the given sentence. Rohan David and Ram are playing hide and
-seek",
+    question: "Choose the correct punctuation mark after the word Rohan in the given sentence. Rohan David and Ram are playing hide and seek",
 
     answer: "Comma (,)",
     options: [
